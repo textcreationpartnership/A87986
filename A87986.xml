@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter, from the Quakers to the mayor and sheriffs of Bristol.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87986</idno><idno type="EEBO-CITATION">45097822</idno>
+  <idno type="VID">171405</idno>
+  <idno type="EEBO-PROQUEST">2240915487</idno>
+  
+            <idno type="STC">Wing L1539</idno>
+            <idno type="STC">ESTC R214658</idno>
+            <idno type="OCLC">45097822</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter, from the Quakers to the mayor and sheriffs of Bristol.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Knowlis.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  Persecutions --  England --  Bristol.</term>
+               <term type="geographic_name">Bristol (England) --  Church history.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:171405:1"/>
+            <head>A LETTER FROM THE QUAKERS TO THE Mayor and Sheriffs OF BRISTOL.</head>
+            <p>WE have weekly the afflicting News of your Merciless Cruelty towards our Innocent Friends, and though their sober Carriage, their inoffensive Actions, their regular Walkings, their upright Dealings, and their circumspect Lives, might merit far better usage from you, yet you go on to Persecute them even to Death, and with so much violence as justly gives us cause to believe you Glory in your Shame. You have no regard to their Innocence, whilst the Proud <hi>Papists</hi> struts a<g ref="char:EOLhyphen"/>mongst you like a Jay on a Perch unpunished, for whom the rigour of the Law was chiefly intended, the distressed Diffenting Protestants are the subjects of your Fury. These are the people that must endure your severity. Why? Whats the matter? Only this, they love their God better than you, they love their King better than you, and they are more obedient to Gods Laws than you: would they Swear, Drink, Curse, Whore, and Prophane the Sabbath, as too many of your <hi>Tory</hi> Tribe do, you would hug them in your Arms, put them in your Bosoms, and lay them close to your Hearts: they would be as the Apple of your Eye: would they but Conform to your Vices, and Equalize your Debauches, you would not value whether they Conformed to the Laws or not; but here's the reason why you vent your Gall, and spit your Poyson at them, they are more Righteous than you. They hate Swearing, Perjury, and Lying, they abominate the too frequent Vices that Mount the present Stage. Were they men of no Religion, but would live like Atheists or Heathens, you would give them no disturbance: but because they are careful to please God, and fearful to offend the King, because they make a Conscience of their Words and
+<pb n="2" facs="tcp:171405:2"/>Ways, therefore you studdy to Torment them: but shall this sin go unpu<g ref="char:EOLhyphen"/>nished? If our Laws sleep, the Almighties do not, if a Parliament be forgot<g ref="char:EOLhyphen"/>ten? If their Rods cannot reach you here. The stroaks of Omnipotency will surely awake you hereafter. Go on, make your Furnace seven times hotter, add afflictions to the afflicted, consume their Cattle, exhaust their Treasure, drein their Purses, waist their Goods, and destroy their Persons; yet know that for all this God will bring you to Judgment. Would we abhor Gods Ways, and the Kings Laws, and but abhor Parliaments and Associations, we might go unpunished; would we but rail against <hi>Shaftsbury,</hi> and the rest of the Protesting Lords, and give Votes for those that would cut our Throats, then we might be reckoned amongst the number of your Darlings: but because we act according to the Dictates of our Consciences, and endeavour to make the Scri<g ref="char:EOLhyphen"/>pture our Rule and Guide to everlasting Happiness; because we cannot run with the Multitude to do evil, therefore you thunder out your Anathemas against us, and fill the Goals with harmless Lambs, whilst the Ravening Wolves are suffered to ramble whithersoever they please. Are you Deaf? Hear you not the complaints of the Oppressed, are your Ears stopt that you do not regard the Sighs and Groans of those that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anguish unjustly in Prison? Wheres your pre<g ref="char:EOLhyphen"/>tended Justice? Whether is your seeming Piety fled, surely they are gone Passagers to <hi>Morroco</hi> to Convert the Heathens, in some of the <hi>Bristol</hi> Ships. Oh <hi>Bristol! Bristol!</hi> How art thou fallen from the top of Goodness, to the very bottom of Evil. Thou wast once famed for Sobriety and Zeal, and now thy very Inhabitants stink in the Nostrils of sober men. The Righteous suffer and none regard it, Wickedness is encouraged and goes scotfree, whilst the poor Servants of Christ Jesus, are made the may-game of the Town, and as Chickens for the Ravenons Kites to devour. Oh! Think if you go on to Persecute the Innocent, what will become of you when your White Rods and your Black Bodies shall be broken in pieces, what will you do when Death shall summons you to Gods Tribunal? What will you say when he shall call you to give an account of your Actions? will it be enough to plead the 35th. of Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> at that time? No, She her self will be a witness against you, and tell you, that she never intended to couple the silly Sheep and Ravenous Woolf to<g ref="char:EOLhyphen"/>gether, She never design'd that the <hi>English</hi> Lamb, and the <hi>Roman</hi> Bull should both draw in one Yoak. But what avails it to write to you, or speak to you, you have Armed your selves with a Resolution to run down all that shall stand in opposition to you, let our Plea be never so just, our Request never so honest, our Petitions never so Prevalent, ye will not hear us, you have stopt your Ears with <hi>Roman</hi> Wool, so that you are resolved to continue deaf to all the Argu<g ref="char:EOLhyphen"/>ments that might perswade you to put a stop to your Hellish Practices. But when Conscience once awakens, Oh! what Trembling will seiz your Joints, Oh! What Howling will possess you and what bitterness of Spirit will you be in. Do not run on in such unwarrantable ways lest whilst you bespeak Peace to your selves a suddain Destruction overtake you.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Knowlis.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
